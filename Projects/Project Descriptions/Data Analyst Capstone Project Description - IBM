@@ -8,5 +8,5 @@ After cleaning the data, I applied statistical techniques to analyze the data an
   Next, I used IBM cognos analytics to visualize and tell a story through the data I analyzed using charts, plots and histograms to help reveal my finding and trends. 
   Finally, I compiled all my analysis into a powerpoint and conveyed a story through it to my peers. 
   
-  Technologies used: MySQL, IBM Cognos Analytics, Python 
+  Technologies used: MySQL, IBM Cognos Analytics, Python 3.0 (Jupyter Notebook)
   Skills utilized: Data cleaning and wrangling, data analysis through statistical graphs and techniques , usage of APIs to collect data from surveys, websites
